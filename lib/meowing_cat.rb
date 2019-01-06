@@ -5,8 +5,6 @@ def meow
 puts "meow!"
 end
 end
+
 maru = Cat.new     ## code your solution here.
 maru.meow
-
-
-
